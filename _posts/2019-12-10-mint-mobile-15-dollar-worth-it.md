@@ -1,5 +1,5 @@
 ---
-title: "Post: Mint Mobile $15 worth it? Let's review!"
+title: "Mint Mobile $15 worth it? Let's review!"
 last_modified_at: 2019-12-10T16:20:02-05:00
 categories:
   - Blog
