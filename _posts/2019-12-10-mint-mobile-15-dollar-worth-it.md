@@ -11,4 +11,4 @@ tags:
 
 Mint Mobile intially starts on August 1, 2016. It started to gain attraction  during the Super Bowl show time in 2018 with a "green fox" talking about saving money on cellphone plan. 
 
-<iframe width="640" height="360" src="https://www.youtube.com/watch?v=BN02qXVIfhU" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BN02qXVIfhU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
