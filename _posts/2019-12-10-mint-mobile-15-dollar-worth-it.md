@@ -19,9 +19,9 @@ toc: true
 ## Initial Thoughts
 At the time of writing this article, assume you only want to pay for a single line, you'd see the following price from major carriers. You can get even lower price if you are in a family plan with multiple people, so it is something we need to take into consideration compared with Mint Mobile. Note: the price below gives you unlimited talk, text & data.
 
-|  AT&T  | Verizon | T-Mobile | Sprint |
-|:--------|:-------:|--------:|--------:|
-| $65/mo  | $70/mo   | $60/mo   | $60/mo  |
+        |  AT&T  | Verizon | T-Mobile | Sprint |
+        |:--------|:-------:|--------:|--------:|
+        | $65/mo  | $70/mo   | $60/mo   | $60/mo  |
 
 At first glance, Mint Mobile's plans are very competitive on the price. Although users have to plan on how much data they would need beforehand (Mint Mobile is not unlimited on 4G), it's still sounds like a good deal from the money perspective. 
 
@@ -30,6 +30,8 @@ Secondly, users pay their contract fee upfront with Mint Mobile, it feels like p
 Thirdly, as a wireless provider, signal is one of the biggest factors needs to take careful consideration. Mint Mobile is powered by T-Mobile's 4G LTE network, how good is that? It depends where you go but overall I am happy with my experience.
 
 At last, Mint Mobile doesn't sell your phone with their plan, it is called **Bring Your Own Device (BYOD)**, which means you'd need to bring an unlock phone yourself. If you are not sure if your phone is unlock, please check your current wireless provider before make the purchase.
+
+Since I need to purchase a cheap phone plan for less than 6 months, I'd give Mint Mobile a try, below is my review with 7 days experience. 
 
 ## Ordering & Unboxing Process
 I had a very good experience with their website and order process is straightforward, they also take the shipping cost away due to the deal which is very nice. I paid chose the $15/month for first 3 months with 12G plan as the "welcome" offer, Mint Mobile used Fedex and shipped from CA to NJ within 2 days.
