@@ -14,12 +14,14 @@ Mint Mobile intially starts on August 1, 2016. It started gaining massive attrac
 
 <iframe width="480" height="270" src="https://www.youtube.com/embed/BN02qXVIfhU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-At the time of writing this article, 
 
-| AT&T | Verizon | T-Mobile |
-|:--------|:-------:|--------:|
-| cell1   | cell2   | cell3   |
-| cell4   | cell5   | cell6   |
-|----
-| cell1   | cell2   | cell3   |
-| cell4   | cell5   | cell6   |
+At the time of writing this article, assume you only want to pay for a single line, you'd see the following price from major carriers. You can get even lower price if you are in a family plan with multiple people, so it is something we need to take into consideration compared with Mint Mobile. Note: the price below gives you unlimited talk, text & data.
+
+|  AT&T  | Verizon | T-Mobile | Sprint |
+|:--------|:-------:|--------:|--------:|
+| $65/mo  | $70/mo   | $60/mo   | $60/mo  |
+
+
+At first glance, Mint Mobile is very competitive on the price. Although you have to plan on how much data you would need beforehand, it's still sounds like a good deal from the money perspective. 
+
+
