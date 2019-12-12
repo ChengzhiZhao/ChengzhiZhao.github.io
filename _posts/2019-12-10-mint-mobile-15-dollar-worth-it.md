@@ -1,5 +1,5 @@
 ---
-title: "Mint Mobile: should I jump in for $15/month? Let's review!"
+title: "Mint Mobile: should I get a wireless plan for $15/month? Let's review!"
 last_modified_at: 2019-12-10T16:20:02-05:00
 categories:
   - Reviews
@@ -33,7 +33,7 @@ Thirdly, as a wireless provider, signal is one of the biggest factors needs to t
 
 At last, Mint Mobile doesn't sell your phone with their plan, it is called **Bring Your Own Device (BYOD)**, which means you'd need to bring an unlock phone yourself. If you are not sure if your phone is unlock, please check your current wireless provider before make the purchase.
 
-Since I need to purchase a cheap phone plan for less than 6 months, I'd give Mint Mobile a try, below is my review with 7 days experience. 
+Since I need to purchase a cheap phone plan for less than 6 months, I am curious, I'd give Mint Mobile a try, below is my review with 7 days experience. 
 
 ## Ordering & Unboxing Process
 I had a very good experience with their website and order process is straightforward, they also take the shipping cost away due to the deal which is very nice. I paid chose the $15/month for first 3 months with 12G plan as the "welcome" offer, Mint Mobile used Fedex and shipped from CA to NJ within 2 days.
