@@ -19,9 +19,9 @@ toc: true
 ## Initial Thoughts
 At the time of writing this article, assume you only want to pay for a single line, you'd see the following price from major carriers. You can get even lower price if you are in a family plan with multiple people, so it is something we need to take into consideration compared with Mint Mobile. Note: the price below gives you unlimited talk, text & data.
 
-        |  AT&T  | Verizon | T-Mobile | Sprint |
-        |:--------|:-------:|--------:|--------:|
-        | $65/mo  | $70/mo   | $60/mo   | $60/mo  |
+|  AT&T  | Verizon | T-Mobile | Sprint |
+|:--------|:-------:|--------:|--------:|
+| $65/mo  | $70/mo   | $60/mo   | $60/mo  |
 
 At first glance, Mint Mobile's plans are very competitive on the price. Although users have to plan on how much data they would need beforehand (Mint Mobile is not unlimited on 4G), it's still sounds like a good deal from the money perspective. 
 
