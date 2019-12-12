@@ -9,12 +9,14 @@ tags:
   - Electronic Review
 toc: true
 ---
-> Do you want to pay only $15 as person for your wireless bill each month? Yes, please keep reading.
+> Do you want to pay only $15 as person for your wireless bill each month? If "Yes", please keep reading.
 
 [Mint Mobile](https://www.mintmobile.com/) intially starts on August 1, 2016. It started gaining massive attraction during the Super Bowl commercial in 2018 with a "green fox" talking about saving money on cellphone plan with only $20 a month.
 
 <iframe width="480" height="270" src="https://www.youtube.com/embed/BN02qXVIfhU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br/>
+
+## Initial Thoughts
 At the time of writing this article, assume you only want to pay for a single line, you'd see the following price from major carriers. You can get even lower price if you are in a family plan with multiple people, so it is something we need to take into consideration compared with Mint Mobile. Note: the price below gives you unlimited talk, text & data.
 
 |  AT&T  | Verizon | T-Mobile | Sprint |
@@ -25,7 +27,7 @@ At first glance, Mint Mobile's plans are very competitive on the price. Although
 
 Secondly, users pay their contract fee upfront with Mint Mobile, it feels like prepaid monthly plan. There are 9 options available now: 3, 6 and 12 months, each month you can choose 3G, 8G and 12G as 4G data plan, both talks and text are unlimited, the longer period you have the less monthly cost you pay. With a winter (Black Friday) deal, you could get your first 3 months with 12G data as low as $15/month. After 3 month "welcome" contract period, you can choose close the account, change plan or continue with the current plan. Despite the plan you choose, at the beginning of each plan cycle, you pay for entire contract instead of a monthly installment. For example, you choose a 12 month plan, you'd need to pay for the entire year, which could be a burden compare to other wireless carriers.
 
-Thridly, as a wireless provider, signal is one of the biggest factors needs to take careful consideration. Mint Mobile is powered by T-Mobile's 4G LTE network, how good is that? It depends where you go but overall I am happy with my experience.
+Thirdly, as a wireless provider, signal is one of the biggest factors needs to take careful consideration. Mint Mobile is powered by T-Mobile's 4G LTE network, how good is that? It depends where you go but overall I am happy with my experience.
 
 At last, Mint Mobile doesn't sell your phone with their plan, it is called **Bring Your Own Device (BYOD)**, which means you'd need to bring an unlock phone yourself. If you are not sure if your phone is unlock, please check your current wireless provider before make the purchase.
 
