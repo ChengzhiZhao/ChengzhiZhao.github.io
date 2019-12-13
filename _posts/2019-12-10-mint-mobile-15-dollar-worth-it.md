@@ -1,5 +1,5 @@
 ---
-title: "Mint Mobile: Curious About getting a wireless plan for $15/month? Let's review!"
+title: "Mint Mobile: Curious about getting a wireless plan for $15/month? Let's review!"
 last_modified_at: 2019-12-10T16:20:02-05:00
 categories:
   - Reviews
@@ -16,7 +16,7 @@ toc: true
 <iframe width="480" height="270" src="https://www.youtube.com/embed/BN02qXVIfhU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br/>
 
-## Curiosity
+## Deals
 At the time of writing this article, assume you only want to pay for a single line, you'd see the following price from major carriers. You can get even lower price if you are in a family plan with multiple people, so it is something we need to take into consideration compared with Mint Mobile. Note: the price below gives you unlimited talk, text & data.
 
 |  AT&T  | Verizon | T-Mobile | Sprint |
@@ -40,9 +40,11 @@ I had a very good experience with their website and order process is straightfor
 
 The package includes two green envelopes, one has a single SIM card with the plan you purchased, the other one has two SIM cards that you can send as a gift to your friends. I'm not sure if Mint Mobile always send out the "gift" SIM cards, but it is nice gift for sharing (Only if the SIM works, more detail in [Onboarding Process & Get a New Number](#onboarding-process--get-a-new-number)).
 
-![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/mintmobile/envelopes.png){: .align-left} 
+![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/mintmobile/envelopes.JPG){: .align-left} 
 
-![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/mintmobile/opened-envelopes.png){: .align-left}
+![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/mintmobile/opened-envelopes.JPG){: .align-left}
+
+<br/>
 
 ## Onboarding Process & Get a New Number
 
