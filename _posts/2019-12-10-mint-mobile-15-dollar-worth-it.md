@@ -66,14 +66,7 @@ You can interact with Mint Mobile by web, app and text message. I am impressed b
 
 ![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/mintmobile/ui_menu.png){: .align-left}
 
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
+<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
 ## Signal Test
 I'd say signal is acceptable in my test, I have my AT&T at home with 2 out of 4 signal bars and Mint Mobile has 1-2 out of 4 signal bar. I went to Whole Food market in NJ during last weekend, both carriers had a hard time to get any signal, Mint Mobile is not impressive at this point.
