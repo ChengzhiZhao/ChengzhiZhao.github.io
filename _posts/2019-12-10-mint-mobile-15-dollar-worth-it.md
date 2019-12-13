@@ -44,12 +44,20 @@ The package includes two green envelopes, one has a single SIM card with the pla
 
 ![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/mintmobile/opened-envelopes.JPG){: .align-left}
 
-<br/><br/>
+<br/>
+<br/>
+<br/>
 
 ## Activation Process
-Mint Mobile has an easy way to activate the SIM card [online](https://my.mintmobile.com/activation), you just need to provie the ACT Code on the back of the card, then follow the instructions online. Since I only need a new number, all I need is to choose a zip code. _Note: if you live in city like New York and keep the number for limit time, you might want to choose an area that's less crowded, my one bad experience is spam call starts on day 1!_
+Mint Mobile has an easy way to activate the SIM card [online](https://my.mintmobile.com/activation), you just need to provie the ACT Code on the back of the card, then follow the instructions online. Since I only need a new number, all I need is to choose a zip code and they generate a phone number for you. _Note: if you live in city like New York and keep the number for limit time, you might want to choose an area that's less crowded, my one bad experience is spam call starts on day 1!_
 
-![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/mintmobile/chose_number.JPG){: .align-center}
+![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/mintmobile/chose_number.png){: .align-center}
+
+<br/>
+
+One small issue I had was the SIM card carried my 12G plan was a bad SIM one, which I tried on different 3 phones, all phones said "No SIM Card Found". I called Mint Mobile, the representative kept saying my phone was locked. Then I switched to the "gift" SIM card which showed "No signal", I called Mint Mobile again and told them more detail, they swaped the SIM card associated with my plan, problem solved! 
+
+Another issue I encountered was I initially don't have 4G data available. After resetting Network on my iPhone 6, everything seems working smoothly. I am in Mint network!
 
 ## Mint Mobile UI
 
@@ -60,5 +68,5 @@ Mint Mobile has an easy way to activate the SIM card [online](https://my.mintmob
 ## Summary
 In summary, I think Mint Mobile is very smart in the wireless market. It focus a very different segments than its competitors.
 
-## Curiosity Velocity Rating
+## Deals Review Rating
 
