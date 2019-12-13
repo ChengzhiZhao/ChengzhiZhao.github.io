@@ -40,7 +40,9 @@ I had a very good experience with their website and order process is straightfor
 
 The package includes two green envelopes, one has a single SIM card with the plan you purchased, the other one has two SIM cards that you can send as a gift to your friends. I'm not sure if Mint Mobile always send out the "gift" SIM cards, but it is nice gift for sharing (Only if the SIM works, more detail in [Onboarding Process & Get a New Number](#onboarding-process--get-a-new-number)).
 
-![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/mintmobile/envelopes.png){: .align-left} ![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/mintmobile/opened-envelopes.png){: .align-right}
+![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/mintmobile/envelopes.png){: .align-left} 
+
+![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/mintmobile/opened-envelopes.png){: .align-right}
 
 ## Onboarding Process & Get a New Number
 
