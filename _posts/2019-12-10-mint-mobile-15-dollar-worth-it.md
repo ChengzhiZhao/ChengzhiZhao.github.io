@@ -53,14 +53,16 @@ Mint Mobile has an easy way to activate the SIM card [online](https://my.mintmob
 
 ![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/mintmobile/chose_number.png){: .align-center}
 
-<br/>
-
 One small issue I had was the SIM card carried my 12G plan was a bad SIM one, which I tried on different 3 phones, all phones said "No SIM Card Found". I called Mint Mobile, the representative kept saying my phone was locked. Then I switched to the "gift" SIM card which showed "No signal", I called Mint Mobile again and told them more detail, they swaped the SIM card associated with my plan, problem solved! 
 
-Another issue I encountered was I initially don't have 4G data available. After resetting Network on my iPhone 6, everything seems working smoothly. I am in Mint network!
+Another issue I encountered was I initially don't have 4G data available. After resetting network on my iPhone 6, everything seems working smoothly. I am in Mint network!
 
 ## Mint Mobile UI
+You can interact with Mint Mobile by web, app and text message. I like their UI design. It has all the information I need as a wireless plan, renew the plan is very simple, it also provides a button to check my remaining 4G data of a month
 
+![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/mintmobile/ui_summary.png){: .align-left}
+
+![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/mintmobile/ui_menu.png){: .align-left}
 
 ## Signal Test
 
