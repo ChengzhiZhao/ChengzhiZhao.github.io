@@ -44,10 +44,12 @@ The package includes two green envelopes, one has a single SIM card with the pla
 
 ![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/mintmobile/opened-envelopes.JPG){: .align-left}
 
-<br/>
+<br/><br/>
 
-## Onboarding Process & Get a New Number
+## Activation Process
+Mint Mobile has an easy way to activate the SIM card [online](https://my.mintmobile.com/activation), you just need to provie the ACT Code on the back of the card, then follow the instructions online. Since I only need a new number, all I need is to choose a zip code. _Note: if you live in city like New York and keep the number for limit time, you might want to choose an area that's less crowded, my one bad experience is spam call starts on day 1!_
 
+![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/mintmobile/chose_number.JPG){: .align-center}
 
 ## Mint Mobile UI
 
