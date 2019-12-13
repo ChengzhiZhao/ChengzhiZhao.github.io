@@ -1,5 +1,5 @@
 ---
-title: "Mint Mobile: Curious about getting a wireless plan for $15/month? Let's review!"
+title: "Mint Mobile: Thinking about Getting a Wireless Plan for $15/month? Let's review it"
 last_modified_at: 2019-12-10T16:20:02-05:00
 categories:
   - Reviews
@@ -16,7 +16,7 @@ toc: true
 <iframe width="480" height="270" src="https://www.youtube.com/embed/BN02qXVIfhU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br/>
 
-## Deals
+## Initial Thoughts
 At the time of writing this article, assume you only want to pay for a single line, you'd see the following price from major carriers. You can get even lower price if you are in a family plan with multiple people, so it is something we need to take into consideration compared with Mint Mobile. Note: the price below gives you unlimited talk, text & data.
 
 |  AT&T  | Verizon | T-Mobile | Sprint |
@@ -67,5 +67,5 @@ I think it is great product for the following needs:
 - Users use less data than unlimited.
 - Users bring their own phone.
 
-## Deals Review Rating
+## Deal Review Rating
 
