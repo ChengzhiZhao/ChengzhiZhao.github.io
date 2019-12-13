@@ -42,7 +42,7 @@ The package includes two green envelopes, one has a single SIM card with the pla
 
 ![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/mintmobile/envelopes.png){: .align-left} 
 
-![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/mintmobile/opened-envelopes.png){: .align-right}
+![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/mintmobile/opened-envelopes.png){: .align-left}
 
 ## Onboarding Process & Get a New Number
 
