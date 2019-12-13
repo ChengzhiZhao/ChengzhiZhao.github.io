@@ -58,17 +58,25 @@ One small issue I had was the SIM card carried my 12G plan was a bad SIM one, wh
 Another issue I encountered was I initially don't have 4G data available. After resetting network on my iPhone 6, everything seems working smoothly. I am in Mint network!
 
 ## Mint Mobile UI
-You can interact with Mint Mobile by web, app and text message. I like their UI design. It has all the information I need as a wireless plan, renew the plan is very simple, it also provides a button to check my remaining 4G data of a month
+You can interact with Mint Mobile by web, app and text message. I am impressed by its UI. It is clean and clear, it has all the information I need as a wireless plan, renew the plan is very simple, add more data is just a few button click, it even provides a useful button to check my remaining 4G data of a month.
 
 ![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/mintmobile/ui_summary.png){: .align-left}
 
 ![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/mintmobile/ui_menu.png){: .align-left}
 
-## Signal Test
+<br/>
+<br/>
 
+## Signal Test
+I'd say signal is acceptable in my test, I have my AT&T at home with 2 out of 4 signal bars and Mint Mobile has 1-2 out of 4 signal bar. I went to Whole Food market in NJ during last weekend, both carriers had a hard time to get any signal, Mint Mobile is not impressive at this point.
 
 ## Summary
 In summary, I think Mint Mobile is very smart in the wireless market. It focus a very different segments than its competitors.
+
+I think it is great product for the following needs:
+- For travellers only need to be in US for limited time without worrying  about siging a wireless contract.
+- Users use less data than unlimited.
+- Users bring their own phone.
 
 ## Deals Review Rating
 
