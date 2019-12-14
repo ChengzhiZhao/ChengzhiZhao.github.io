@@ -21,6 +21,7 @@ twitter_username: username
 github_username: username
 minimal_mistakes_skin: dirt
 search: true
+url: "https://moneynotebooks.com"
 
 # Build settings
 markdown: kramdown
