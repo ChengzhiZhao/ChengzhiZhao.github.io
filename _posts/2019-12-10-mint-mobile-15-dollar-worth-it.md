@@ -41,7 +41,9 @@ I had a very good experience with their website and order process is straightfor
  
 The package includes two green envelopes, one has a single SIM card with the plan you purchased, the other one has two SIM cards that you can send as a gift to your friends. I'm not sure if Mint Mobile always send out the "gift" SIM cards, but it is nice gift for sharing (Only if the SIM works, more detail in [Onboarding Process & Get a New Number](#onboarding-process--get-a-new-number)).
  
-![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/mintmobile/envelopes.JPG){: .align-left} ![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/mintmobile/opened-envelopes.JPG) {: .align-left}
+![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/mintmobile/envelopes.JPG){: .align-left} 
+
+![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/mintmobile/opened-envelopes.JPG){: .align-left}
  
 ## Activation Process
 Mint Mobile has an easy way to activate the SIM card [online](https://my.mintmobile.com/activation), you just need to provie the ACT Code on the back of the card, then follow the instructions online. Since I only need a new number, all I need is to choose a zip code and they generate a phone number for you. _Note: if you live in city like New York and keep the number for limit time, you might want to choose an area that's less crowded, my one bad experience is spam call starts on day 1!_
@@ -55,7 +57,9 @@ Another issue I encountered was I initially don't have 4G data available. After 
 ## Mint Mobile UI
 You can interact with Mint Mobile by web, app and text message. I am impressed by its UI. It is clean and clear, it has all the information I need as a wireless plan, renew the plan is very simple, add more data is just a few buttons click, it even provides a useful button to check my remaining 4G data of a month.
  
-![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/mintmobile/ui_summary.png){: .align-left} ![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/mintmobile/ui_menu.png){: .align-left}
+![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/mintmobile/ui_summary.png){: .align-left} 
+
+![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/mintmobile/ui_menu.png){: .align-left}
  
 ## Signal Test
 I'd say signal is acceptable in my test, I have my AT&T at home with 2 out of 4 signal bars and Mint Mobile has 1-2 out of 4 signal bar. I went to Whole Food market in NJ during last weekend, both carriers had a hard time to get any signal, Mint Mobile is not impressive at this point.
