@@ -1,5 +1,5 @@
 ---
-title: "Mint Mobile: Wireless Phone Plan for $15/month? Let's review it"
+title: "Mint Mobile: Is Wireless Plan for $15/month worth it? Let's review it"
 description: "A full first-hand product review on Mint Mobile about a wireless plan for only $15/month, who is this product fits for."
 last_modified_at: 2019-12-10T16:20:02-05:00
 categories:
