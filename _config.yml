@@ -13,10 +13,10 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Deals Review
+title: Money Notebooks
 email:
 description: >- # this means to ignore newlines until "baseurl:"
-  Deals Review is a personal blog which explore deals and give first hand experience and review.
+  The websites talks about personal finance -- Save and Invest!
 twitter_username: username
 github_username: username
 minimal_mistakes_skin: dirt
@@ -65,9 +65,9 @@ plugins:
   - jekyll-seo-tag
 
 author:
-  name   : "William Zhao"
+  name   : "Money Notetaker"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : ""
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
