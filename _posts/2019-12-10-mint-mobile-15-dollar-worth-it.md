@@ -65,7 +65,5 @@ In summary, I think Mint Mobile is very smart in the wireless market. It focuses
  
 I think it is a great product for the following needs:
 - For travellers only need to be in the US for a limited time without worrying about signing a wireless contract.
-- Users use less data than unlimited.
+- Users use less data than unlimited or have access to WIFI most of time.
 - Users bring their own phone.
- 
-## Deal Review Rating
