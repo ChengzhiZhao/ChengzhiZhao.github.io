@@ -41,7 +41,8 @@ I had a very good experience with their website and order process is straightfor
  
 The package includes two green envelopes, one has a single SIM card with the plan you purchased, the other one has two SIM cards that you can send as a gift to your friends. I'm not sure if Mint Mobile always send out the "gift" SIM cards, but it is nice gift for sharing (Only if the SIM works, more detail in [Onboarding Process & Get a New Number](#onboarding-process--get-a-new-number)).
  
-![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/mintmobile/envelopes.JPG){: .align-left} ![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/mintmobile/opened-envelopes.JPG)
+|:---:|:---:|
+|![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/mintmobile/envelopes.JPG) | ![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/mintmobile/opened-envelopes.JPG) |
  
 ## Activation Process
 Mint Mobile has an easy way to activate the SIM card [online](https://my.mintmobile.com/activation), you just need to provie the ACT Code on the back of the card, then follow the instructions online. Since I only need a new number, all I need is to choose a zip code and they generate a phone number for you. _Note: if you live in city like New York and keep the number for limit time, you might want to choose an area that's less crowded, my one bad experience is spam call starts on day 1!_
