@@ -1,6 +1,6 @@
 ---
 title: "The Art of Compound Interest"
-description: "This article discusses what is compound interest, why it is important and how you can use it in your life."
+description: "This article discusses what is compound interest, why compound interest is important and how you can use compound interest in your life."
 last_modified_at: 2019-12-15T10:20:02-05:00
 categories:
   - Personal Finance
@@ -28,6 +28,12 @@ n = number of compounding periods
 For example, let's say Mike has $1000 dollors to invest, he put the money in a bank with 8% interest rate annually. After one year, he would have `1000 * (1+5%)^1 = 1080` as the final result. Without touching the initial $1000, he'd earn $80 pretax after one year, that's good enough for him to have a nice dinner or purchase a new video game! 
 
 ![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/compound_interest/Mike.jpg){: .align-center}
+
+However, Mike decides to continue without having that nice dinner or buying a new video game. For the start of next year, the principal become $1080 instead of $1000, which is $80 more participate in the interest compounding process!
+
+
+
+
 
 But don't run away with Math and we don't have to apply Excel calculation as well, there are tons of website or app help you caculate compound interest for you.
 
