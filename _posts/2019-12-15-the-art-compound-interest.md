@@ -1,25 +1,14 @@
 ---
-title: "Post: Modified Date"
-last_modified_at: 2016-03-09T16:20:02-05:00
-categories:
-  - Blog
-tags:
-  - Post Formats
-  - readability
-  - standard
----
-
-<!-- ---
 title: "The Art of Compound Interest"
 description: "This article discusses what is compound interest, why compound interest is important and how you can use compound interest in your life."
-last_modified_at: 2019-12-15T10:20:02-05:00
+last_modified_at: 2019-12-09T16:20:02-05:00
 categories:
   - Personal Finance
 tags:
   - Compound Interest
   - Personal Finance
 toc: true
---- -->
+---
 > Compound interest is the eighth wonder of the world. He who understands it, earns it ... he who doesn't ... pays it. <cite><a href="https://www.goodreads.com/quotes/76863-compound-interest-is-the-eighth-wonder-of-the-world-he">Albert Einstein</a></cite>
 
 The word "Compound Interest" is powerful and give a person enough imagination related to wealth, finance independent and happy life. Back to reality, compound interest doesn't always come with happy ending. As Einstein wiesly stated, compound interest is like "two sides of a coin": people who understand and utilize it, may use it as a investment vehicle to gain more money; people who don't understand and utilize it, may play a role like a lamb to the slaughter. You may gain money by investing with compound interest, you may owe money and pay montly bills with compound interest. 
