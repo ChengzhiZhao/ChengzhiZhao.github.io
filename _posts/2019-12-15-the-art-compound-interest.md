@@ -1,12 +1,13 @@
 ---
 title: "The Art of Compound Interest"
 description: "This article discusses what is compound interest, why compound interest is important and how you can use compound interest in your life."
-last_modified_at: 2019-12-11T09:20:02-05:00
+last_modified_at: 2019-12-15T10:20:02-05:00
 categories:
-  - Personal Finance
+  - Blog
 tags:
-  - Compound Interest
-  - Personal Finance
+  - Post Formats
+  - readability
+  - standard
 ---
 
 
