@@ -55,7 +55,9 @@ Let's still use Mike as an example, and introduce Gary to compare with Mike's st
 
 > Gary wants to use same strategy as Mike's when Mike has already invested his $1,000 for 10 years. Gary has extra money, so he put $2,000, leave in the bank for 10 years, the final money he has in bank is $4,317.85
 
-Wait...Gary even doubles the inital priciple won't catch up with Mike? The answer is because of compound interest, Mike actually had $2158.92 already in the bank, which is more than Gary's initial $2,000
+Wait...Gary even doubles the inital priciple won't catch up with Mike? The answer is because of compound interest, Mike actually had $2158.92 already in the bank at year 10 when Gary starts, the begining fund of Mike is more than Gary's fund $2,000.
+
+### Monthly Contribution
 
 
 
