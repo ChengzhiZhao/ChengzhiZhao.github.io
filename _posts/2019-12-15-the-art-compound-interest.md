@@ -43,12 +43,12 @@ Mike keep going without get his earned interested earned, which means he keep in
 
 You should note here, there are a few factors are very critical in this compound interest calculation:
 
-1. Time is the most important factor in the equation, it is a powerful number and the secret why money grows in exponentiation. invest 1 year ($1,080) vs. 20($4,660.96) years makes huge difference. 
+1. Time is the most important factor in the equation, it is a powerful number and the secret why money grows exponentially. invest 1 year ($1,080) vs. 20($4,660.96) years makes huge difference. 
 2. Mike didn't make a decision to take the money out every year. If he pulled the interest earned out every year, let's do the caculation again, **$80 interest earned every year* 20 years = 1600 plus initial $1000**, the total would be $2,600, which is **$4,660.96 - $2,600 = 2060.96** less than without taking the money out every year. You could argue that he'd lose the opportunity to spend $80 for fun in life, which could be endless argument as everyone has different lifestyle. 
-3. Principle or the initial money you put is important, but in compounding calculation, time can pay for even less principle. To see one example, you can fast forward to an [Example](#time-factor).
+3. Principle or the initial money you put is important, but in compounding calculation, time can pay for even less principle. To see one example, you can fast forward to an [Example](#time-value-factor).
 4. The "Fancy Bank" with 8% interest rate is hard to find, as market fluctuate, we just use it as an example.
 
-### Time Factor
+### Time Value Factor
 Let's still use Mike as an example, and introduce Gary to compare with Mike's strategy. We shall keep the "fancy bank" as fancy as it is with a 8% interest guarantee rate annually. 
 
 > Mike keeps his original investment plan, which he put $1,000, leave in the bank for 20 years, the final money he has in bank is $4,660.96
@@ -57,10 +57,16 @@ Let's still use Mike as an example, and introduce Gary to compare with Mike's st
 
 Wait...Gary even doubles the inital priciple won't catch up with Mike? The answer is because of compound interest, Mike actually had $2158.92 already in the bank at year 10 when Gary starts, the begining fund of Mike is more than Gary's fund $2,000.
 
-### Monthly Contribution
+### The other side of the coin
+Everything sounds great so far as compound interest is decent way to gain more money. The other side of the coin is: if others use compound interest on you, it would become really hard to escape from the mire of debt. 
 
+One example is credit card, if you only pay the minimum payment each month, you'd be surprise to find out how much more money you actually paid for. Let's use another example, Tony wants to purchase a new laptop which costs $1,000, he doesn't have enough cash to pay in advance, so he decides to borrow the money and use credit card to pay for the new laptop. 
 
+The laptop was very new and has all the features Tony need. However, since Tony don't have enough cash, he pays what is called **"the minimum payment"** of his credit card. According to [Wallethub](https://wallethub.com/edu/cc/average-credit-card-interest-rate/50841/), The average secured credit card’s APR is 18.48%. Although paying the *minimum payment* won't trigger any penalty on your credit history, the $1,000 that Tony borrowed initally won't be free money. 
 
+Every monthly, Tony keeps paying minimum payment, the payment would split into two portions:
+- First, the interest he owed to the bank{: .notice--danger}
+- Secondly, less interest, the remaining part from minimum payment applied to priciple.{: .notice--danger}
 
 
 
