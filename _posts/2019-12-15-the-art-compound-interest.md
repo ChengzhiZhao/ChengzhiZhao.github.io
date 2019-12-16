@@ -15,7 +15,7 @@ The word **"Compound Interest"** is powerful and give a person enough imaginatio
 
 The basic of compound interest is very important to everyone, it sets the foundation for investment; it also can also help you to avoid sales trap.
 
-### Compound Interest 101
+## Compound Interest 101
 
 Compound interest is not a complex with simple formula: 
 
@@ -48,7 +48,7 @@ You should note here, there are a few factors are very critical in this compound
 3. Principle or the initial money you put is important, but in compounding calculation, time can pay for even less principle. To see one example, you can fast forward to an [Example](#time-value-factor).
 4. The "Fancy Bank" with 8% interest rate is hard to find, as market fluctuate, we just use it as an example.
 
-### Time Value Factor
+## Time Value Factor
 Let's still use Mike as an example, and introduce Gary to compare with Mike's strategy. We shall keep the "fancy bank" as fancy as it is with a 8% interest guarantee rate annually. 
 
 > Mike keeps his original investment plan, which he put $1,000, leave in the bank for 20 years, the final money he has in bank is $4,660.96
@@ -57,7 +57,7 @@ Let's still use Mike as an example, and introduce Gary to compare with Mike's st
 
 Wait...Gary even doubles the inital priciple won't catch up with Mike? The answer is because of compound interest, Mike actually had $2158.92 already in the bank at year 10 when Gary starts, the begining fund of Mike is more than Gary's fund $2,000.
 
-### The other side of the coin
+## The other side of the coin
 Everything sounds great so far as compound interest is decent way to gain more money. The other side of the coin is: if others use compound interest on you, it would become really hard to escape from the mire of debt. 
 
 One example is credit card, if you only pay the minimum payment each month, you'd be surprise to find out how much more money you actually paid for. Let's use another example, Tony wants to purchase a new laptop which costs $1,000, he doesn't have enough cash to pay in advance, so he decides to borrow the money and use credit card to pay for the new laptop. 
@@ -76,5 +76,5 @@ What does It mean? To visualize it, let's assume Tony has a credit card with 20%
 
 As the interest on credit card is usually very high, it is exceedingly costly in the long run, you can see how compound interest in this case add pressure to Tony's life. If you can plan better and avoid carrying balance on a credit card, I strongly suggest you do so.
 
-### The bottom line
+## The bottom line
 Compound interest is powerful if you put into investment than debt. As you can see, properly using this investment vehicle can gain you in much better financial state. Investment is a recurring event, you don't have to wait until you have a good income stream or promotion, start today, it is a habit that worth running in long term. Remember, **TIME** is your unique and most valuation asset.
