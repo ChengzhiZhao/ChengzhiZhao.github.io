@@ -62,16 +62,19 @@ Everything sounds great so far as compound interest is decent way to gain more m
 
 One example is credit card, if you only pay the minimum payment each month, you'd be surprise to find out how much more money you actually paid for. Let's use another example, Tony wants to purchase a new laptop which costs $1,000, he doesn't have enough cash to pay in advance, so he decides to borrow the money and use credit card to pay for the new laptop. 
 
-The laptop was very new and has all the features Tony need. However, since Tony don't have enough cash, he pays what is called **"the minimum payment"** of his credit card. According to [Wallethub](https://wallethub.com/edu/cc/average-credit-card-interest-rate/50841/), The average secured credit card’s APR is 18.48%. Although paying the *minimum payment* won't trigger any penalty on your credit history, the $1,000 that Tony borrowed initally won't be free money. 
+The laptop was very new and has all the features Tony need. However, since Tony don't have enough cash, he pays what is called **"the minimum payment"** of his credit card. According to [Wallethub](https://wallethub.com/edu/cc/average-credit-card-interest-rate/50841/), The average credit card interest rate is 19.21%. Although paying the *minimum payment* won't trigger any penalty on your credit history, the $1,000 that Tony borrowed initally won't be free money. 
 
-Every monthly, Tony keeps paying minimum payment, the payment would split into two portions:
-- First, the interest he owed to the bank{: .notice--danger}
-- Secondly, less interest, the remaining part from minimum payment applied to priciple.{: .notice--danger}
+Every monthly, Tony keeps paying minimum payment, As he carry some balance month to month, each payment would split into two portions (calculation detail depends on how the credit card issuer calculate):
+- First, the interest he owed to the bank.
+{: .notice--danger}
+- Secondly, less interest, the remaining part from minimum payment applied to priciple.
+{: .notice--danger}
 
+What does It mean? To visualize it, let's assume Tony has a credit card with 20% interest, he pays $35 as minimum payment. It would take him 3 years and 4 months to pay off the laptop, and also will pay $369 addition for compound interest. 
 
+![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/compound_interest/Tony.png){: .align-center}
 
+As the interest on credit card is usually very high, it is exceedingly costly in the long run, you can see how compound interest in this case add pressure to Tony's life. If you can plan better and avoid carrying balance on a credit card, I strongly suggest you do so.
 
-
-
-
-
+### The bottom line
+Compound interest is powerful if you put into investment than debt. As you can see, properly using this investment vehicle can gain you in much better financial state. Investment is a recurring event, you don't have to wait until you have a good income stream or promotion, start today, it is a habit that worth running in long term. Remember, **TIME** is your unique and most valuation asset.
