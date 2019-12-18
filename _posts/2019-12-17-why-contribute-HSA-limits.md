@@ -17,15 +17,24 @@ Regretly, Health Savings Account(HSA) has never been in my personal finance rada
 ## Health Savings Account Overview
 > [Health Savings Account](https://en.wikipedia.org/wiki/Health_savings_account) is a tax-advantaged medical savings account available to taxpayers in the United States who are enrolled in a high-deductible health plan (HDHP). -- Wikipedia
 
+HSA first starts on December 8, 2003, it was designed as a replacement for medical savings account ([MSA](https://en.wikipedia.org/wiki/Medical_savings_account_(United_States)), which mostly target for self-employed or small corporations. HSA empowers savings in multiple ways, we will talk more detail in [Power of HSA](#power-of-hsa) 
+
 ### Prerequisite
+Similar as MSA, HSA is coupled with a high-deductible health plan (HDHP), which usually has lower premium monthly payment, but costs more than traditional insurance plan to reach to deductible for insurance to kick in. 
 
 ### Restriction
-Since HSA is health related, you can use and only use it for health related cost.
-
-### How to use HSA
-
+HSA is health related account, you can use and only use it for health related cost, otherwise you will pay the penalty. However, you can refer to this long **[CARE ELIGIBILITY LIST]**(http://www.hsabank.com/hsabank/learning-center/irs-qualified-medical-expenses), it covers more than you think as health care related expense.
 
 ## Health Savings Account(HSA) vs. Flexible Spending Account(FSA)
+
+## Power of HSA
+- Tax-free contribution
+- Investment
+- Tax-free Earning
+- Defer medication payment
+- Usage Scope
+
+## How to use HSA
 
 ## Investment in HSA
 
