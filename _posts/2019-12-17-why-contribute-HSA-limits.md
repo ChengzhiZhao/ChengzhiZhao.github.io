@@ -47,7 +47,15 @@ Besides 401K, HSA is another great option for people to contribute your money **
 Overall, it is nearly as good as 401K to lower your tax bucket. Additionally, some company may even contribute to your HSA as well, try to find out if you company do so, at least you should try to get the part that company matches.
 
 - Investment
-- Tax-free Earning (Mostly)
+A hidden gem for HSA is you can do investment. Don't be scared about the idea of investing your health related cost to stock market or mutual fund. It's like 401K, you choose a reliable fund and invest for long term. Depends on your age, health and risk tolerant, you will have different investment strategies. If you want to super aggressive, you can put all your money in stock market; If you just want to be safe, you can even put it like a saving account to earn interest monthly. Some HSA funds may have large cost ratio, make sure you read each before you put money in. For long term investment, if you put $3,550 every year, with 7% yearly return rate, 20 years later, you'd have 
+$145,615.99.
+![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/max_hsa_contribution/investment.png){: .align-center}
+
+
+- Tax-free Earning
+Interest and Dividends Taxed in NH and TN
+
+
 - Defer medication payment
 - Usage Scope
 - Rollover
