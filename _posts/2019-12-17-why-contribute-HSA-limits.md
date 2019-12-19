@@ -48,17 +48,19 @@ Overall, it is nearly as good as 401K to lower your tax bucket. Additionally, so
 
 - Investment
 A hidden gem for HSA is you can do investment. Don't be scared about the idea of investing your health related cost to stock market or mutual fund. It's like 401K, you choose a reliable fund and invest for long term. Depends on your age, health and risk tolerant, you will have different investment strategies. If you want to super aggressive, you can put all your money in stock market; If you just want to be safe, you can even put it like a saving account to earn interest monthly. Some HSA funds may have large cost ratio, make sure you read each before you put money in. For long term investment, if you put $3,550 every year, with 7% yearly return rate, 20 years later, you'd have 
-$145,615.99.
+$145,615.99, with $74,575.99 interest gained.
 ![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/max_hsa_contribution/investment.png){: .align-center}
 
+- Tax-free Earnings
+If you invest and don't need to worry about paying tax on interest and dividends, it sounds like ROTH? Yes, Earnings in HSA are tax-free! Except if you are in New Hampshire and Tennessee, in those states you need to double check state laws on how you can deduct your earnings. For other states, from the calculation in the investment section, that's $74,575.99 free of tax. REMEMBER -- Only for health expense.
 
-- Tax-free Earning
-Interest and Dividends Taxed in NH and TN
+- Rollover
+This is mainly for the comparison of other accounts like FSA. You don't have to rush to spend all your money in HSA. One downside of some HSAs are like checking account, they require monthly contributions or minimum balance, otherwise their management fee could eat your pie.
 
+- Usage Scope
+We already mentioned that there is a long [CARE ELIGIBILITY LIST](http://www.hsabank.com/hsabank/learning-center/irs-qualified-medical-expenses). But you can also use HSA for people is not your health insurance. For example, you can buy some HSA-eligible vitamin for your parents. 
 
 - Defer medication payment
-- Usage Scope
-- Rollover
 
 ## How to use HSA
 
