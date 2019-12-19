@@ -10,9 +10,9 @@ tags:
 toc: true
 ---
 
-![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/max_hsa_contribution/front_page.png){: .align-center}
-
 Regretly, Health Savings Account(HSA) has never been in my personal finance radar until recently. Three years ago, I did put money into HSA but use it as Flexible Spending Account(FSA), I repent that I never treat HSA as an investment tool to do any investment. Until recently, I learned all the pros and cons of using HSA, I find out HSA is one of the best investment tool available. it's very powerful and I am eager to share everything I learned. If you want to find out more about the beauty of HSA, and gain more knowledge and insights about HSA, please keep reading!
+
+![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/max_hsa_contribution/front_page.png){: .align-center}
 
 ## Health Savings Account Overview
 > [Health Savings Account](https://en.wikipedia.org/wiki/Health_savings_account) is a tax-advantaged medical savings account available to taxpayers in the United States who are enrolled in a high-deductible health plan (HDHP). -- Wikipedia
@@ -59,14 +59,10 @@ If you invest and don't need to worry about paying tax on interest and dividends
 This is mainly for the comparison of other accounts like FSA. You don't have to rush to spend all your money in HSA. One downside of some HSAs are like checking account, they require monthly contributions or minimum balance, otherwise their management fee could eat your pie.
 
 ### Usage Scope
-We already mentioned that there is a long [CARE ELIGIBILITY LIST](http://www.hsabank.com/hsabank/learning-center/irs-qualified-medical-expenses). But you can also use HSA for people is not your health insurance. For example, you can buy some HSA-eligible vitamin for your parents. 
+We already mentioned that there is a long [CARE ELIGIBILITY LIST](http://www.hsabank.com/hsabank/learning-center/irs-qualified-medical-expenses). But you can also use HSA for people is not your health insurance. For example, you can buy some HSA-eligible vitamin for your parents without having them on the insurance plan.
 
-### Defer medication payment
-
-## How to use HSA
-
-## Investment in HSA
-
+### Defer medication reimbursement
+If you have a medical bill and you have enough cash to pay the bill, you can choose to pay the bill directly by cash or credit card now, then you save the receipts (I usually scan the receipts and have a folder in Dropbox for those expense), those receipts will be reimburse later. You might ask why? As we discussed in [The Art of Compound Interest](https://moneynotebooks.com/personal%20finance/the-art-compound-interest/), you can let time play its role, your investment in HSA will be compounding more since you won't touch the principle. Eventually, you will submit those receipts to get that money reimbursed, but that would be the money with long time compounding.
 
 ## Tips to use HSA
 
