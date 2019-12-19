@@ -64,8 +64,5 @@ We already mentioned that there is a long [CARE ELIGIBILITY LIST](http://www.hsa
 ### Defer medication reimbursement
 If you have a medical bill and you have enough cash to pay the bill, you can choose to pay the bill directly by cash or credit card now, then you save the receipts (I usually scan the receipts and have a folder in Dropbox for those expense), those receipts will be reimburse later. You might ask why? As we discussed in [The Art of Compound Interest](https://moneynotebooks.com/personal%20finance/the-art-compound-interest/), you can let time play its role, your investment in HSA will be compounding more since you won't touch the principle. Eventually, you will submit those receipts to get that money reimbursed, but that would be the money with long time compounding.
 
-## Tips to use HSA
-
-
 ## Summary
-
+I hope this article gives your some insights on how powerful HSA is. It is one of the investment tool has been underestimated. Don't be scared away from health care only or HDHP, read through more details and plan carefully with your financial situation. If you are healthy and don't hit the deductible of the your health insurance every year. Definitely, you should consider evaluate HSA as an option or even max out HSA contribution yearly. 
