@@ -8,6 +8,7 @@ tags:
   - Health Savings Account
   - HSA
 toc: true
+toc_icon: "money"
 ---
 
 Regretly, Health Savings Account(HSA) has never been in my personal finance radar until recently. Three years ago, I did put money into HSA but use it as Flexible Spending Account(FSA), I repent that I never treat HSA as an investment tool to do any investment. Until recently, I learned all the pros and cons of using HSA, I find out HSA is one of the best investment tool available. it's very powerful and I am eager to share everything I learned. If you want to find out more about the beauty of HSA, and gain more knowledge and insights about HSA, please keep reading!

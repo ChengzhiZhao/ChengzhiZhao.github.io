@@ -8,6 +8,8 @@ tags:
   - Compound Interest
   - Personal Finance 101
   - Money
+toc: true
+toc_icon: "money"
 ---
 > Compound interest is the eighth wonder of the world. He who understands it, earns it ... he who doesn't ... pays it. <cite><a href="https://www.goodreads.com/quotes/76863-compound-interest-is-the-eighth-wonder-of-the-world-he">Albert Einstein</a></cite>
 
