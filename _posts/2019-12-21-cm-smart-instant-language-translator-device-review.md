@@ -45,26 +45,31 @@ Once you open the App, you should be able to choose the languages you want to pe
 As I only speak English and Mandarin, my test experience was based on those two languages. I have tested the CM translator for last 7 days and want to share my overall experience.
  
 ### External View
-Score: 5/5
+*Score: 5/5*
+
 As the winner of "iF Design Award" in 2019, CM translator has only one button. You only need to hold that button while you speak or listen to someone else speak. 
  
 ### Voice collection & recognition
-Score: 4/5
+*Score: 4/5*
+
 I am happy about the voice collection & recognition part in general. However, since you cannot choose the language you actually speak, if there is a word sounds similar in another language, it might recognize as other words, but it doesn't happen often.
  
 ### Translation Speed
-Score: 3.5/5
+*Score: 3.5/5*
+
 Overall, the speed is good, and depends on the length of the sentence and your internet connection speed. The process actually collect your voice -> speech to word process -> get the translation back from Microsoft AI -> Speak back to you
 For simple sentences, for example, "I like eating chilly peppers", it takes 4~5 seconds. I don't expect this to be under 1 second but that's OK to hold the conversion without too much silence.
  
 ### Translation Accuracy
-Score: 4/5 
+*Score: 4/5* 
+
 This is my only concern. If the translation quality is bad, it doesn't matter how many design awards it won, user won't even consider it. CM translator is accurate in the majority of the words and sentences, thanks to its backbone Microsoft AI. However, some translation may not be accurate with simple words, for example, **prune juice**, it tried to translate "prune" as a verb instead of a noun, so it would be wired in another language. In my experience, it is 85% accurate and some translations are very impressive. As CM translator partnership with Microsoft AI service, the improvement of the translation quality should be promising in the future.
  
 ![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/cm_translator/prune_juice.JPG){: .align-center}
  
 ### Voice
-Score: 3.5/5 
+*Score: 3.5/5* 
+
 The sound is quite loud and you can change it in setting. However, You won't be able to change the voice at this version and the Voice sounds like another "Siri", however, it feels like "Siri" in a rush. I didn't see a way you can change the speed of how the translation get back to you, which is not good for people to learn a language. I'd definitely say it is a feature request for CM translator.
  
 ## Summary
