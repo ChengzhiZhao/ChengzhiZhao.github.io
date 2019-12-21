@@ -58,7 +58,7 @@ I am happy about the voice collection & recognition part in general. However, si
 *Score: 3.5/5*
 
 Overall, the speed is good, and depends on the length of the sentence and your internet connection speed. The process actually collect your voice -> speech to word process -> get the translation back from Microsoft AI -> Speak back to you
-For simple sentences, for example, "I like eating chilly peppers", it takes 4~5 seconds. I don't expect this to be under 1 second but that's OK to hold the conversion without too much silence.
+For simple sentences, for example, "I like eating chili peppers", it takes 4~5 seconds. I don't expect this to be under 1 second but that's OK to hold the conversion without too much silence.
  
 ### Translation Accuracy
 *Score: 4/5* 
