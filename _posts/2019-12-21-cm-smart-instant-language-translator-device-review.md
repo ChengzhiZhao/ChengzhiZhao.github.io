@@ -65,7 +65,7 @@ For simple sentences, for example, "I like eating chilly peppers", it takes 4~5 
 
 This is my only concern. If the translation quality is bad, it doesn't matter how many design awards it won, user won't even consider it. CM translator is accurate in the majority of the words and sentences, thanks to its backbone Microsoft AI. However, some translation may not be accurate with simple words, for example, **prune juice**, it tried to translate "prune" as a verb instead of a noun, so it would be wired in another language. In my experience, it is 85% accurate and some translations are very impressive. As CM translator partnership with Microsoft AI service, the improvement of the translation quality should be promising in the future.
  
-![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/cm_translator/prune_juice.JPG){: .align-center}
+![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/cm_translator/prune_juice.PNG){: .align-center}
  
 ### Voice
 *Score: 3.5/5* 
