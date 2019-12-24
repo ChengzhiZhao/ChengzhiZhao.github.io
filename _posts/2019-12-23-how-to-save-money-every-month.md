@@ -25,7 +25,7 @@ You may argue that life is short, the money you earned should be spent 100% for 
  
 Saving money is a good habit. If you have read the book [The Millionaire Next Door](https://www.amazon.com/Millionaire-Next-Door-Surprising-Americas/dp/1589795474), which shows you the spending and saving habits that lead to more cash than most people earn in their life, you’d find very interesting that in the book, most of the millionaire won’t look like rich from their appearance; on the other hand, people struggle in finance would pretend to be rich and buy all luxury goods than they can actually afford. Once you have the saving habit, you are in autopilot mode to make additional money into investment. Saving is a critical step to financial independence, the biggest issue is **"People spend too much than they earn"**. You should examinate your living expenses first, then start saving. The first part of the posts is all about expense.
  
-## Go though your living expense
+## Go though your living expenses
  
 ### Collect Data
 The traditional way is to run through your monthly expense, including all credit card, rent/mortgage, car, groceries, meals etc, put them into a spreadsheet and categorize each items. If spreadsheet sounds like old style, there are Apps help you monitor your expense to give an idea about how much you spend every month. Apps like [Mint](https://www.mint.com/) or [Clarity Money](https://www.marcus.com/us/en/clarity-money) allow you to give each transaction a tag or a category. I personally found Mint is good overall for tracking, but Clarity Money is especailly useful in identifying recurring bills which is great feature that cut your monthly expenses.
