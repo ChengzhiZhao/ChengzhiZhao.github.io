@@ -22,7 +22,7 @@ If your company offers a pre-tax retirement plan, for example, traditional 401(k
 ## After-tax retirement plan
 Roth 401(k) is one of the example of the after-tax retirement plan, the limit alone is $19,500 in 2020. So you would still pay the taxes, social security, medical, also investment gains, interest or dividends are tax-free as traditional 401(k). But you won’t need to pay taxes when you withdraw the money during retirement. 
 
-Important Note: You can contribute to both traditional 401(k) and Roth 401(k), but the total of your contributions cannot exceed $19,500 in 2020. How you want to divide each portion depends on your retirement target and plan. 
+**Important Note**: You can contribute to both traditional 401(k) and Roth 401(k), but the total of your contributions cannot exceed $19,500 in 2020. How you want to divide each portion depends on your retirement target and plan. 
 
 ## HSA and FSA
 Healthcare saving should be an important component when you start a saving journey. Both HSA and FSA are great to save pre-tax money for your medical or healthcare-related expenses. Depends on your health condition and expenses on healthcare every year, you may want to choose HSA vs. FSA differently.
