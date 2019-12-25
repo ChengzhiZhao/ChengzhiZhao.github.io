@@ -3,8 +3,8 @@ title: "How to start saving money when you get paid? (Part 2)"
 description: "This article describes the ways to help you save money when you get paid, and gives suggestions on how to plan saving and investing for retirement"
 last_modified_at: 2019-12-25T10:20:02-05:00
 header:
-  image: assets/images/save_money_every_month/nick-morrison-FHnnjk1Yj7Y-unsplash.jpg
-  caption: "Photo from: [**Nick Morrison**](https://unsplash.com/)"
+  image: assets/images/save_money_every_month/josh-appel-NeTPASr-bmQ-unsplash.jpg
+  caption: "Photo from: [**Josh Appelrrison**](https://unsplash.com/)"
 categories:
   - Personal Finance
 tags:
